@@ -20,18 +20,6 @@
 	z-index: 1;
 }
 
-.contact-1-mc:before {
-	background-color: rgba(26, 26, 26, .48);
-	content: ' ';
-	display: inline-block;
-	height: 100%;
-	left: 0;
-	position: absolute;
-	top: 0;
-	width: 100%;
-	z-index: 0;
-}
-
 .features-16-card-bordered-mc .card img.face {
 	margin: -1px -1px 0 -1px;
 	max-width: max-content;
