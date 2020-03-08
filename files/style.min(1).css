@@ -2518,6 +2518,10 @@ table.unstyled td, table.unstyled th {
         width: 90%
     }
 
+    .gridContainer.narrow {
+        width: 70%
+    }
+
     .col-sm {
         -webkit-flex-shrink: 0;
         -moz-flex-shrink: 0;
@@ -3084,6 +3088,10 @@ table.unstyled td, table.unstyled th {
         width: 90%
     }
 
+    .gridContainer.narrow {
+        width: 60%
+    }
+
     .col-md {
         -webkit-flex-shrink: 0;
         -moz-flex-shrink: 0;
@@ -3647,6 +3655,10 @@ table.unstyled td, table.unstyled th {
 
     .gridContainer {
         width: 90%
+    }
+
+    .gridContainer.narrow {
+        width: 50%
     }
 
     .col-lg {
@@ -9378,4 +9390,8 @@ ul.mesmerize-language-switcher.after-menu.hover > li, ul.mesmerize-language-swit
 
 ul.mesmerize-language-switcher.after-menu span {
     display: none
+}
+
+div.gridContainer.justify p {
+    text-align: justify;
 }
